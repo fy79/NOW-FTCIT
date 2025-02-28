@@ -1,1 +1,1 @@
-This is the software package for Overlapped Arithmetic Codes, a monograph to be published in NOW Foundations and Trends in Communications and Information Theory.
+This is the software package for Overlapped Arithmetic Codes, a monograph to be published in NOW Foundations and Trends in Communications and Information Theory. This work was supported by the National Science Foundation of China under Grant 62350069 and Grant 62141101.
